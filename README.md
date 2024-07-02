@@ -9,7 +9,7 @@ Computer Science Major @ Stevens Institute of Technology
 
 **Languages:** 
 
-[![Languages](https://skillicons.dev/icons?i=java,python,js)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,python,js,c++)](https://skillicons.dev)
 
 **Frameworks / Libraries:**
 
