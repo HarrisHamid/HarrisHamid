@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-Computer Science Major @ Stevens Institute of Technology
+Im Harris Hamid. Computer Science Major @ Stevens Institute of Technology
 <!--
 **HarrisHamid/HarrisHamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
