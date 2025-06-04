@@ -9,7 +9,7 @@ Im Harris Hamid. Computer Science Major @ Stevens Institute of Technology
 
 **Languages:** 
 
-[![Languages](https://skillicons.dev/icons?i=java,python,js,cpp,c,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,python,js,cpp,c)](https://skillicons.dev)
 
 **Frameworks / Libraries:**
 
