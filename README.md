@@ -1,6 +1,9 @@
-## Hey! 👋
+## Whats Up! 👋
 
-Im Harris Hamid. Computer Science Major @ Stevens Institute of Technology
+I'm Harris Hamid.<br>
+Computer Science Major @ Stevens Institute of Technology<br>
+Network Engineering Intern @ MITRE<br>
+Vice President of Recruitment @ Stevens Blueprint
 <!--
 **HarrisHamid/HarrisHamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -17,4 +20,5 @@ Im Harris Hamid. Computer Science Major @ Stevens Institute of Technology
 
 **Tools / Platforms:**
 
-[![Tools](https://skillicons.dev/icons?i=vscode,eclipse,git,nodejs,postman,firebase,mongodb)](https://skillicons.dev)
+[![Tools Line 1](https://skillicons.dev/icons?i=vscode,eclipse,git,nodejs,postman)](https://skillicons.dev)  
+[![Tools Line 2](https://skillicons.dev/icons?i=firebase,mongodb,ubuntu)](https://skillicons.dev)
