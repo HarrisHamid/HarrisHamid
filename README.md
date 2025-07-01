@@ -1,7 +1,7 @@
 ## Whats Up! 👋
 
 I'm Harris Hamid.<br>
-Computer Science Major @ Stevens Institute of Technology<br>
+CS Major @ Stevens Institute of Technology<br>
 Network Engineering Intern @ MITRE<br>
 Vice President of Recruitment @ Stevens Blueprint
 <!--
