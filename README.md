@@ -2,7 +2,7 @@
 
 I'm Harris Hamid.<br>
 CS Major @ Stevens Institute of Technology<br>
-Network Engineering Intern @ MITRE<br>
+SWE Intern @ MITRE<br>
 Vice President of Recruitment @ Stevens Blueprint
 <!--
 **HarrisHamid/HarrisHamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
