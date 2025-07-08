@@ -16,9 +16,9 @@ Vice President of Recruitment @ Stevens Blueprint
 
 **Frameworks / Libraries:**
 
-[![Frameworks](https://skillicons.dev/icons?i=flask,react,bootstrap,tensorflow)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=flask,react,bootstrap,express,nextjs)](https://skillicons.dev)
 
 **Tools / Platforms:**
 
 [![Tools Line 1](https://skillicons.dev/icons?i=vscode,eclipse,git,nodejs,postman)](https://skillicons.dev)  
-[![Tools Line 2](https://skillicons.dev/icons?i=firebase,mongodb,ubuntu)](https://skillicons.dev)
+[![Tools Line 2](https://skillicons.dev/icons?i=firebase,supabase,mongodb,ubuntu)](https://skillicons.dev)
