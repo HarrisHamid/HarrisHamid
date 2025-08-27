@@ -2,8 +2,8 @@
 
 I'm Harris Hamid.<br>
 CS Major @ Stevens Institute of Technology<br>
-Prev SWE Intern @ MITRE and ProOF Lab<br>
 Vice President of Recruitment @ Stevens Blueprint
+Prev SWE Intern @ MITRE and ProOF Lab<br>
 <!--
 **HarrisHamid/HarrisHamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
