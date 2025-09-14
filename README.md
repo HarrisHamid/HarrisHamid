@@ -21,5 +21,5 @@ Prev ML Researcher @ ProOF Lab<br>
 
 **Tools / Platforms:**
 
-[![Tools Line 1](https://skillicons.dev/icons?i=vscode,eclipse,git,nodejs,postman)](https://skillicons.dev)  
+[![Tools Line 1](https://skillicons.dev/icons?i=vscode,git,nodejs,postman)](https://skillicons.dev)  
 [![Tools Line 2](https://skillicons.dev/icons?i=firebase,supabase,mongodb,ubuntu)](https://skillicons.dev)
