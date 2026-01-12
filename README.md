@@ -3,6 +3,7 @@
 I'm Harris Hamid.<br>
 CS Major @ Stevens Institute of Technology<br>
 Vice President of Recruitment @ Stevens Blueprint<br>
+Platform SWE Intern @ Nomad Futurist <br>
 Prev SWE Intern @ MITRE<br>
 Prev ML Researcher @ ProOF Lab<br>
 <!--
